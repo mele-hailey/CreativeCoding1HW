@@ -1,0 +1,25 @@
+#font {
+    color:rgb(188, 42, 218);
+    font-family: Helvetica;
+    font-size: 50px
+}
+
+#bgimage { 
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/39d6de4f-b348-41c2-a1f5-16ce9555d07f/dg99czm-cc8d19ed-d26e-45e9-8a84-192e60d85809.png/v1/fill/w_800,h_800,q_80,strp/arcade_carpet_clash___abr_file__free_download__by_russieraholic_dg99czm-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvMzlkNmRlNGYtYjM0OC00MWMyLWExZjUtMTZjZTk1NTVkMDdmXC9kZzk5Y3ptLWNjOGQxOWVkLWQyNmUtNDVlOS04YTg0LTE5MmU2MGQ4NTgwOS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ZCgO_kWiHo3wJOOCsUQh_Lab26YpsjOh2Q0qGTEt7B4');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+p.center {
+    text-align: center;
+}
+
+p.title {
+    text-align: center;
+    color: rgb(188, 42, 218);
+    font-family: Helvetica;
+    font-size: 50px;
+    background-color: white;
+}
